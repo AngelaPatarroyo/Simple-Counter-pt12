@@ -1,6 +1,6 @@
 import React from "react";
 
-const seconds = (props) => {
+const Seconds = (props) => {
   return (
     <div id="second">
       <div id="main-box" className="mt-3 d-flex justify-content-center">
@@ -34,4 +34,4 @@ const seconds = (props) => {
   );
 };
 
-export default seconds;
+export default Seconds;
